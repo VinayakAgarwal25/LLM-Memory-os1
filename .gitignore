@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+Main Application/data/analytics.log
+Main Application/data/memories.json
+Main Application/data/vectors.faiss
+Main Application/data/vectors.faiss.meta.json

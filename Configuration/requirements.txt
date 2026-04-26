@@ -1,0 +1,9 @@
+# Core Dependencies
+requests==2.31.0          # For Ollama API calls
+faiss-cpu==1.7.4          # Vector similarity search
+numpy==1.24.3             # Numerical operations for FAISS
+python-dotenv==1.0.0      # Environment variable management
+
+# Optional but recommended
+colorama==0.4.6           # Colored terminal output (cross-platform)
+tqdm==4.66.1              # Progress bars for downloads
